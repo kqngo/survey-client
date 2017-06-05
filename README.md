@@ -13,15 +13,13 @@ a survey can be viewed by the survey owner.
 
 ## Project Links
 
-#### Back-End Deplpyed
-[ProjectApiDeployed](https://floating-savannah-15725.herokuapp.com/)
-#### Back-End Repo
-[ProjectApiRepo](https://github.com/push-it-real-good/survey-express-api)
+#### Front-End
+Front-End Deployed: https://kqngo.github.io/survey-client/
+Front-End Repo: https://github.com/kqngo/survey-client
 
-#### Front-End Deployed
-[ProjectClientDeployed](https://push-it-real-good.github.io/survey-client/)
-#### Front-End Repo
-[ProjectClientRepo](https://github.com/push-it-real-good/survey-client)
+#### Back-End
+Back-end Deployed: https://survey-team-project.herokuapp.com/
+Back-End Repo: https://github.com/kqngo/survey-express-api
 
 ## ERD
 
